@@ -1,0 +1,19 @@
+{
+  "name": "kadai-10",
+  "version": "1.0.0",
+  "description": "授業の課題",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matsumoto-Saya/kadai_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matsumoto-Saya/kadai_npm/issues"
+  },
+  "homepage": "https://github.com/Matsumoto-Saya/kadai_npm#readme"
+}
