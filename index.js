@@ -1,1 +1,2 @@
-console.log('hello, npm!')
+const cowsay = require('coesay')
+console.log(cowsay.say('hello'))
